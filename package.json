@@ -1,6 +1,6 @@
 {
   "name": "pdfalchemy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "PDF to Text Converter",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mcneely/pdfalchemy#readme",
   "dependencies": {
-    "pdf2json": "^0.7.1"
+    "pdf2json": "^0.2"
   }
 }
