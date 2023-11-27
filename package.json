@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mcneely/pdfalchemy#readme",
   "dependencies": {
-    "pdf2json": "^0.2"
+    "pdf2json": "^1.2.4"
   }
 }
